@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Binyan Hu 🌿  
 
-**Information Systems | AI & Cloud Enthusiast | Data & Business Innovation**
+*Information Systems | AI & Cloud Enthusiast | Data & Business Innovation*
 
 🎓 **MSIS @ Indiana University – Kelley School of Business**  
 💼 Graduate Assistant @ Kelley MSIS Core | Former WMS Intern @ Scitoo Auto Parts  

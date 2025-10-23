@@ -24,7 +24,7 @@
 ### 📫 Connect With Me  
 📧 [binyan.hu@gmail.com](mailto:binyan.hu@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/binyan-hu)  
-🌐 [Portfolio Website](https://binyanhu.github.io)
+🌐 [Portfolio Website](https://binyhu.github.io/binyanhu.github.io/)
 
 ---
 

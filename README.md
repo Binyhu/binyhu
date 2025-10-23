@@ -1,17 +1,19 @@
-# 👋 Hi there! I'm Binyan Hu 🌿  
+# 👋 Hi there! I'm Binyan Hu 
 
-*Information Systems | AI & Cloud Enthusiast | Data & Business Innovation*
+<h2 align="left"><b>Information Systems | AI & Cloud Enthusiast | Data & Business Innovation</b></h2>
 
-🎓 **MSIS @ Indiana University – Kelley School of Business**  
-💼 Graduate Assistant @ Kelley MSIS Core | Former WMS Intern @ Scitoo Auto Parts  
-🌏 Passionate about bridging **business strategy and technology innovation**  
+
+🎓 **Master in Information Systems @ Indiana University – Kelley School of Business**  
+- 💼 Graduate Assistant @ Kelley MSIS Core 
+- 🧭 Graduate Student Supervisor @ Serve IT Clinic 
 
 ---
 
 ### 💡 About Me  
-- 🌱 Currently exploring **AI-driven development** and **cloud architecture**  
-- 🤝 Open to opportunities in **Data Analytics**, **Technology Consulting**, and **Digital Strategy**  
-- 🎯 Interested in using **data-driven insights** to enable smarter business decisions  
+- 🌱 Currently exploring AI-driven development, cloud architecture, and product management
+- 🤝 Skilled in leading cross-functional teams, managing timelines, and ensuring smooth project delivery
+- 🎯 Open to opportunities in Data Analytics, Technology Consulting, Digital Strategy, and Product Management
+- 🌏 Passionate about using data-driven insights and strategic thinking to enable smarter business decisions  
 
 ---
 
@@ -19,12 +21,8 @@
 💻 Python · SQL · Flask · Power BI · Tableau · HTML · CSS · JavaScript  
 ☁️ Azure · SAP S/4HANA · Snowflake · Databricks · GitHub Pages  
 
----
 
-### 📫 Connect With Me  
-📧 [binyan.hu@gmail.com](mailto:binyan.hu@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/binyan-hu)  
-🌐 [Portfolio Website](https://binyhu.github.io/binyanhu.github.io/)
+
 
 ---
 

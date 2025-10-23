@@ -1,7 +1,6 @@
-# 👋 Hi there! I'm Binyan Hu 
+# Hi there! 👋  I'm Binyan Hu 
 
-<h2 align="left"><b>Information Systems | AI & Cloud Enthusiast | Data & Business Innovation</b></h2>
-
+<h2><b>Information Systems | AI & Cloud Enthusiast | Data & Business Innovation</b></h2>
 
 🎓 **Master in Information Systems @ Indiana University – Kelley School of Business**  
 - 💼 Graduate Assistant @ Kelley MSIS Core 
